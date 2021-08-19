@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-💻 I'm Rhona 💻 
+I'm Rhona Lam and currently attending Coder Academy's Fast Track Bootcamp in Brisbane 
 
 #### Connect with me:
 
