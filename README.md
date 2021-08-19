@@ -1,7 +1,27 @@
-### Hi there 👋
+### Hello world 👋
+
+💻 I'm Rhona 💻 
+
+#### Connect with me:
+
+[<img align="left" alt="rhonaTwitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="rhonaInstagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="rhonaFacebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="rhonaLinkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br /><br /><br />
+
+##### 😆 Happy Coding 😆
+
+
+[twitter]: https://twitter.com/rhona_lam
+[instagram]: https://instagram.com/rhonalam
+[linkedin]: https://linkedin.com/in/rhona-lam
+[facebook]: https://www.facebook.com/rhonalam
+
 
 <!--
-**rhonaCA/rhonaCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rhonall/rhonall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
