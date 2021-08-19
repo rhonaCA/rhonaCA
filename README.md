@@ -9,7 +9,7 @@ I'm Rhona Lam and currently attending Coder Academy's Fast Track Bootcamp in Bri
 [<img align="left" alt="rhonaFacebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="rhonaLinkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br /><br /><br />
+<br /><br />
 
 ##### 😆 Happy Coding 😆
 
@@ -35,5 +35,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-- Here's the new item for ed's lessons
